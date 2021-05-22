@@ -1,5 +1,5 @@
-### Hi there 👋
-- 😄 I'm PRASAD, a noob looking for great opportunity to contribute my skills!!!
+#Hi there 👋
+##😄 I'm PRASAD, a noob looking for great opportunity to contribute my skills!!!
 <!--
 **prasad145/prasad145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-stats)
-<br>
-[![Prasad's github trophy](https://github-profile-trophy.vercel.app/?username=prasad145&row=1&theme=blue-green)](https://github.com/prasad145/github-profile-trophy)
-<br>
-[![Prasad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-stats)
 <br>
 [![Prasad's github streak](https://github-readme-streak-stats.herokuapp.com/?user=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-streak-stats)
 
