@@ -1,6 +1,6 @@
 # Hi there 👋
 <p>
-<img src="https://github.com/prasad145/prasad145/blob/main/Banner.png" width="100%" height="240" border="10"/>
+<img src="https://github.com/prasad145/prasad145/blob/main/Banner.png" width="100%" height="150" border="10"/>
 
 <!--
 **prasad145/prasad145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
