@@ -2,7 +2,7 @@
 <p>
 <img src="https://github.com/prasad145/prasad145/blob/main/Banner.png" width="100%" height="150" border="10"/>
   
-### My Tech Toolbox 🧰
+## My Skills
 
 <p align="left">
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
