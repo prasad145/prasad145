@@ -16,10 +16,15 @@
   
 </p>
 
-## My Github Stats
-[![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-stats)
-<br>
-
 ## My Activity
-[![Prasad's github streak](https://github-readme-streak-stats.herokuapp.com/?user=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-streak-stats)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=prasad145&theme=blue-green" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad145&theme=blue-green" alt="streak" height="165">
 </p>
+
+<!--p>
+  
+  [![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-stats)
+  
+  [![Prasad's github streak](https://github-readme-streak-stats.herokuapp.com/?user=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-streak-stats)
+</p-->
