@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p>
-<img src="https://github.com/prasad145/prasad145/blob/main/Banner.png" width="100%" height="150" border="10"/>
+<img src="https://github.com/prasad145/prasad145/blob/main/Banner.png" width="100%" height="120" border="10"/>
   
 ## My Skills
 
