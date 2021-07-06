@@ -22,6 +22,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad145&theme=blue-green" alt="streak" height="165">
 </p>
 
+### Info
+![info](https://metrics.lecoq.io/prasad145?template=classic&base.community=0&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=Asia%2FCalcutta)
 <!--p>
   
   [![Prasad's github stats](https://github-readme-stats.vercel.app/api?username=prasad145&theme=blue-green)](https://github.com/prasad145/github-readme-stats)
