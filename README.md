@@ -1,6 +1,6 @@
 <h1 align="center"> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there</h1>
 <p>
-<img src="https://github.com/prasad145/prasad145/blob/main/Banner.jpeg" width="100%" height="130" border="10"/>
+<!-- <img src="https://github.com/prasad145/prasad145/blob/main/Banner.jpeg" width="100%" height="130" border="10"/> -->
   
 ## My Skills
 
