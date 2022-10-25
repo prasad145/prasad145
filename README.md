@@ -41,9 +41,9 @@
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshipv&layout=compact)](https://github.com/vamshipv/github-readme-stats) -->
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prasad145&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
-<div align=center>
+<!--div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+</div-->
 
 <!-- ### 🏆 GitHub Profile Trophy:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -51,6 +51,6 @@
 </a> -->
     
 <!-- retro visitor counter -->  
-<p align="center" >   
+<!--p align="center" >   
   <img src="https://profile-counter.glitch.me/prasad145/count.svg" />  
-</p>
+</p-->
