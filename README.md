@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLef3ojOQLTkRqk-D3QclWG1TInu-oYiEMQ&usqp=CAU" alt="flask" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/50115378/197803809-fadea7ad-d7be-48dc-a877-c3a1a06f6bae.png" alt="flask" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -20,6 +20,7 @@
 <img src="https://user-images.githubusercontent.com/50115378/197801797-cbc3ab60-0a2b-4391-9a51-bc3351982c04.png" alt="img" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/50115378/197802087-187c4692-93a1-44a4-9e21-09b53fdafd6a.png" alt="img" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/50115378/197802263-778ace22-faec-4cf5-b211-63bc213c38c8.png" alt="img" width="40" height="40"/>
+
 
 </p>
 
